@@ -1,0 +1,7 @@
+RouteID,VehicleType,DepartureTime,Passengers,Capacity,Region
+101,Bus,08:00,45,50,North
+102,Bus,09:00,60,50,North
+103,Train,10:00,120,150,South
+104,Bus,11:00,15,50,East
+105,Train,12:00,80,150,West
+106,Bus,17:00,70,50,North
